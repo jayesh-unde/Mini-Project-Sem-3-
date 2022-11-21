@@ -8,7 +8,7 @@
 
 //Importing various packages  
 
-import java.util.*;       //scanner class 
+import java.util.*;       
 import java.lang.Thread;  // to pause the execution of current thread 
 
 public class Game {
